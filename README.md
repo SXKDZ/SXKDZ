@@ -1,4 +1,5 @@
 ### This is SXKDZ
+- Incoming Computer Science PhD student at UCLA
 - Computer Science master student at [CRIPAC-DIG](https://github.com/CRIPAC-DIG)
 - Specialized in Machine Learning with an emphasis on Graph Representation Learning and its applications in Recommender Systems
 
